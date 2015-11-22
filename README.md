@@ -1,3 +1,9 @@
+The code in this repository solves the Assignment 2 of the R Programming Course by the John Hopkins University 
+
+https://www.coursera.org/course/rprog
+
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
